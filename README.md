@@ -1,4 +1,5 @@
 التشغيل الأداة علي termux أو linux
+git clone https://github.com/weka-weka/proxy_list
 
 cd ProxyList
 
@@ -9,10 +10,9 @@ python3 proxy_weka.py
 
 التشغيل الأداة علي windows
 
-cd ProxyList
 
-pip install requests
+https://github.com/weka-weka/proxy_list/releases/tag/%40weka-weka
 
-pip install customtkinter
+unzip proxy_list.zip
 
 run proxy_weka.exe
