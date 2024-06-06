@@ -1,4 +1,5 @@
 التشغيل الأداة علي termux أو linux
+
 git clone https://github.com/weka-weka/proxy_list
 
 cd ProxyList
